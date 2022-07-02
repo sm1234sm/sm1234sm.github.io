@@ -1,0 +1,2 @@
+body{margin:0}#container{width:400px;padding:10px;margin:0 auto}#display{border:1px solid #000;padding:10px;background-color:grey}#display,#keypad{width:380px}#reset{width:480px;padding:10px}#numbers{width:260px;padding:10px;display:inline-block}#numbers button{width:80px;margin-top:10px}#operations{width:80px;padding:10px;float:right;display:inline-block}#operations button{width:80px;margin-top:10px}
+/*# sourceMappingURL=main.d8a8c33a.chunk.css.map */
